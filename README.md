@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tiago-maia a Portuguese Software Engineer
+- 👀 I’m interested in k8s, containers and service meshes
+- 📫 How to reach me ... well ... search for me i will be around the block
